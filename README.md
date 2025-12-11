@@ -2,7 +2,7 @@
 
 ## Objective
 
-The Precious Analysis Report Project was done to enhance my skills on investigating a forensic image
+The Mantooth Analysis Report Project was done to enhance my skills on investigating a forensic image
 
 ### Skills Learned
 
