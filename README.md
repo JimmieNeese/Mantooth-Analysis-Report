@@ -19,3 +19,4 @@ The Mantooth Analysis Report Project was done to enhance my skills on investigat
 - PrefetchWindows Event Viewer - Used to investigate the event log found on the image
 
 ## Steps
+See file attached
